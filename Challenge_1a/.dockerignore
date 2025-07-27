@@ -1,0 +1,9 @@
+# .dockerignore
+*.pdf
+venv/
+__pycache__/
+.git/
+*.pyc
+.DS_Store
+output/
+.pytest_cache/
