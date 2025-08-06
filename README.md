@@ -50,7 +50,7 @@ Show your support by adding the ShareLM badge to your website, GitHub profile, o
 
 <a href="https://sharelm.github.io/" target="_blank">
   <img src="https://sharelm.github.io/static/images/Picture1.png"
-       alt="I Support ShareLM" style="max-width: 120px; height: auto;" />
+       alt="I Support ShareLM" style="display: block; margin: 0 auto; max-width: 150px; height: auto;" />
 </a>
 
 Thank you for contributing to the future of open-source AI! 💬🤖
