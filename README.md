@@ -2,20 +2,20 @@
 
 **Crowd-sourcing human feedback for open-source LLMs together**
 
-<div align="center">
-  <a href="https://chromewebstore.google.com/detail/sharelm-share-your-chat-c/nldoebkdaiidhceaphmipeclmlcbljmh">
-    <img src="https://img.shields.io/badge/Chrome_Web_Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store">
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Shachar_Don/status/1742525011271753994">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Tweet">
-  </a>&nbsp;&nbsp;
-  <a href="https://huggingface.co/datasets/shachardon/ShareLM">
-    <img src="https://img.shields.io/badge/Dataset-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Dataset">
-  </a>&nbsp;&nbsp;
-  <a href="https://aclanthology.org/2025.acl-demo.17/">
-    <img src="https://img.shields.io/badge/Paper-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Paper">
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/sharelm-share-your-chat-c/nldoebkdaiidhceaphmipeclmlcbljmh" style="all: unset; display: inline-block;">
+    <img src="https://img.icons8.com/color/30/chrome--v1.png" alt="Chrome" />
   </a>
-</div>
+  <a href="https://twitter.com/Shachar_Don/status/1742525011271753994" style="all: unset; display: inline-block;">
+    <img src="https://img.icons8.com/color/30/twitterx--v2.png" alt="Tweet" />
+  </a>
+  <a href="https://huggingface.co/datasets/shachardon/ShareLM" style="all: unset; display: inline-block;">
+    <img src="https://img.shields.io/badge/🤗-Dataset-yellow.svg" alt="Hugging Face Dataset" />
+  </a>
+  <a href="https://aclanthology.org/2025.acl-demo.17/" style="all: unset; display: inline-block;">
+    <img src="https://img.shields.io/badge/📖-Paper-blue.svg" alt="Paper" />
+  </a>
+</p>
 
 ## What is ShareLM?
 
