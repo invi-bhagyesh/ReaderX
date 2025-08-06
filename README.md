@@ -48,7 +48,7 @@ The plugin supports ChatGPT, Claude, Gemini and all Gradio/ChatUI LLM demos -- s
 
 Show your support by adding the ShareLM badge to your website, GitHub profile, or blog ✨
 
-<p align="center">
+<p align="left">
   <a href="https://sharelm.github.io/" target="_blank">
     <img src="https://sharelm.github.io/static/images/Picture1.png" alt="I Support ShareLM" width="150" />
   </a>
