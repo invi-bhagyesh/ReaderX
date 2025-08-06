@@ -3,16 +3,16 @@
 **Crowd-sourcing human feedback for open-source LLMs together**
 
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/sharelm-share-your-chat-c/nldoebkdaiidhceaphmipeclmlcbljmh" style="text-decoration: none; display: inline-block; color: inherit;">
+  <a href="https://chromewebstore.google.com/detail/sharelm-share-your-chat-c/nldoebkdaiidhceaphmipeclmlcbljmh" style="text-decoration: none; border-bottom: none; display: inline-block; color: inherit;">
     <img src="https://img.icons8.com/color/30/chrome--v1.png" alt="Chrome" />
   </a>
-  <a href="https://twitter.com/Shachar_Don/status/1742525011271753994" style="text-decoration: none; display: inline-block; color: inherit;">
+  <a href="https://twitter.com/Shachar_Don/status/1742525011271753994" style="text-decoration: none; border-bottom: none; display: inline-block; color: inherit;">
     <img src="https://img.icons8.com/color/30/twitterx--v2.png" alt="Tweet" />
   </a>
-  <a href="https://huggingface.co/datasets/shachardon/ShareLM" style="text-decoration: none; display: inline-block; color: inherit;">
+  <a href="https://huggingface.co/datasets/shachardon/ShareLM" style="text-decoration: none; border-bottom: none; display: inline-block; color: inherit;">
     <img src="https://img.shields.io/badge/🤗-Dataset-yellow.svg" alt="Hugging Face Dataset" />
   </a>
-  <a href="https://aclanthology.org/2025.acl-demo.17/" style="text-decoration: none; display: inline-block; color: inherit;">
+  <a href="https://aclanthology.org/2025.acl-demo.17/" style="text-decoration: none; border-bottom: none; display: inline-block; color: inherit;">
     <img src="https://img.shields.io/badge/📖-Paper-blue.svg" alt="Paper" />
   </a>
 </p>
