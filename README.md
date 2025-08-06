@@ -2,7 +2,7 @@
 
 **Crowd-sourcing human feedback for open-source LLMs together**
 
-<p align="left">
+<p align="center">
   <a href="https://chromewebstore.google.com/detail/sharelm-share-your-chat-c/nldoebkdaiidhceaphmipeclmlcbljmh" style="text-decoration: none; display: inline-block;">
     <img src="https://img.icons8.com/color/30/chrome--v1.png" alt="Chrome" />
   </a>
@@ -30,6 +30,8 @@ And this is so easy, so no excuses!
 
 [▶ Watch Demo](https://raw.githubusercontent.com/invi-bhagyesh/ReaderX/main/assets/demo.mp4)
 
+---
+
 ## Usage
 
 You can use the plugin popup to go over your collected conversations from the last 24 hours and rate them. You can also use the popup to delete conversations that you don’t want to share before they are pushed to the database.
@@ -44,6 +46,8 @@ The plugin supports ChatGPT, Claude, Gemini and all Gradio/ChatUI LLM demos -- s
 - Delayed upload to the DB so the user can see and delete their conversation if they don't want it to be published.
 - The only ever-growing chat-bot conversations dataset for open-source models.
 
+---
+
 ## Are you a PROUD DONOR?
 
 Show your support by adding the ShareLM badge to your website, GitHub profile, or blog ✨
@@ -55,6 +59,8 @@ Show your support by adding the ShareLM badge to your website, GitHub profile, o
 </p>
 
 Thank you for contributing to the future of open-source AI! 💬🤖
+
+---
 
 ## BibTeX
 
