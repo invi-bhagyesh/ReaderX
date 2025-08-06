@@ -7,7 +7,7 @@
     <img src="https://img.icons8.com/fluency/48/chrome-web-store.png" alt="Chrome Web Store" />
   </a>
   <a href="https://twitter.com/Shachar_Don/status/1742525011271753994">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/twitterx--v2.png" alt="Tweet" />
+   <img src="https://img.icons8.com/color/30/twitterx--v2.png" alt="Tweet" />
   </a>
   <a href="https://huggingface.co/datasets/shachardon/ShareLM">
     <img src="https://img.shields.io/badge/🤗-Dataset-yellow.svg" alt="Hugging Face Dataset" />
