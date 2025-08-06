@@ -28,7 +28,7 @@ The conversations will be released with the most permissive restriction allowed 
 And this is so easy, so no excuses!  
 
 
-<video src="https://raw.githubusercontent.com/invi-bhagyesh/ReaderX/main/assets/video.mp4" autoplay loop muted playsinline width="400"></video>
+<video src="https://raw.githubusercontent.com/invi-bhagyesh/ReaderX/main/assets/demo.mp4" autoplay loop muted playsinline width="400"></video>
 
 ## Usage
 
