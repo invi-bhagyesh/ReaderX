@@ -27,7 +27,7 @@ The conversations will be released with the most permissive restriction allowed 
 
 And this is so easy, so no excuses!  
 
-<video src="https://github.com/shachardon/share-lm.git/assets/video.mp4" autoplay loop muted playsinline width="400"></video>
+<video src="https://github.com/invi-bhagyesh/ReaderX.git/assets/video.mp4" autoplay loop muted playsinline width="400"></video>
 
 ## Usage
 
