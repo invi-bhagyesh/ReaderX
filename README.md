@@ -27,7 +27,8 @@ The conversations will be released with the most permissive restriction allowed 
 
 And this is so easy, so no excuses!  
 
-https://github.com/user-attachments/assets/6cd66da2-ab4b-4178-989e-28caaaec5454
+
+<video src="https://github.com/user-attachments/assets/6cd66da2-ab4b-4178-989e-28caaaec5454" width="400" controls></video>
 
 ---
 
